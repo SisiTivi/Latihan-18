@@ -1,0 +1,27 @@
+body {
+    background-image: url(Images/Latar.png);
+    background-size:cover; 
+    background-attachment: fixed;
+    padding: 5px;
+    font-family: 'Lexend','Rubik',sans-serif;
+}
+.logo {
+    width: 10px;
+    height: 10px;
+}
+.main{
+    background-color: white;
+    margin-left: 150px;
+    margin-right: 150px;
+    padding: 5px;
+}
+.kepala{
+    display: inline;
+    font-size: 24;
+}
+
+.lagu{
+    column-count: 3;
+    -webkit-column-count: 3;
+    list-style-type: circle;
+}
